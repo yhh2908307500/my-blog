@@ -1,18 +1,18 @@
 ---
-title: "Python 基础教程"
+title: "Python Basics Tutorial"
 date: 2025-04-23
 draft: false
 weight: 2
 ---
 
-# Python 基础教程
+# Python Basics Tutorial
 
-本教程将介绍 Python 编程语言的基础知识。
+This tutorial will introduce the basics of the Python programming language.
 
-## 变量与数据类型
+## Variables and Data Types
 
-Python 支持多种数据类型，包括整数、浮点数、字符串和布尔值。
+Python supports various data types, including integers, floats, strings, and booleans.
 
-## 控制流
+## Control Flow
 
-学习如何使用 if-else 语句和循环结构。
+Learn how to use if-else statements and loop structures.

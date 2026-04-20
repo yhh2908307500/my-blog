@@ -1,24 +1,24 @@
 ---
-title: "第一篇博客"
+title: "First Post"
 date: 2025-04-20
 draft: false
 ---
 
-# 我的第一篇博客
+# My First Blog Post
 
-这是我使用 Hugo + GitHub Pages 搭建博客后的第一篇文章。
+This is my first article after building my blog with Hugo + GitHub Pages.
 
-## 搭建过程
+## Setup Process
 
-1. 初始化 Hugo 项目
-2. 安装 hugo-book 主题
-3. 配置 GitHub Pages 部署
-4. 发布第一篇文章
+1. Initialize Hugo project
+2. Install hugo-book theme
+3. Configure GitHub Pages deployment
+4. Publish the first post
 
-## 技术栈
+## Tech Stack
 
-- **静态站点生成器**: Hugo
-- **主题**: hugo-book
-- **部署平台**: GitHub Pages
+- **Static Site Generator**: Hugo
+- **Theme**: hugo-book
+- **Deployment Platform**: GitHub Pages
 
-希望这个博客能够记录我的学习和成长历程！
+I hope this blog can record my learning and growth journey!

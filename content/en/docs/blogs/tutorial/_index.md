@@ -1,8 +1,8 @@
 ---
-title: "教程"
+title: "Tutorials"
 weight: 1
 ---
 
-# 教程目录
+# Tutorials Directory
 
-这里包含一系列技术教程。
+This section contains a series of technical tutorials.

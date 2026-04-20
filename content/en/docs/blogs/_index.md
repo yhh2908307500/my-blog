@@ -1,7 +1,7 @@
 ---
-title: "文档"
+title: "Docs"
 ---
 
-# 文档目录
+# Documentation Directory
 
-这里存放博客的技术文档和学习笔记。
+This section contains technical documentation and study notes for the blog.

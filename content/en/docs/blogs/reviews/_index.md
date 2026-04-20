@@ -1,8 +1,8 @@
 ---
-title: "评测"
+title: "Reviews"
 weight: 2
 ---
 
-# 评测目录
+# Reviews Directory
 
-这里包含对各类工具和主题的评测文章。
+This section contains review articles on various tools and topics.

@@ -1,24 +1,24 @@
 ---
-title: "Hugo Book 主题评测"
+title: "Hugo Book Theme Review"
 date: 2025-04-22
 draft: false
 weight: 1
 ---
 
-# Hugo Book 主题评测
+# Hugo Book Theme Review
 
-Hugo Book 是一个简洁、专注于内容的文档主题。
+Hugo Book is a clean, content-focused documentation theme.
 
-## 优点
+## Pros
 
-- **简洁设计**: 没有多余的干扰元素。
-- **Markdown 友好**: 完美支持标准 Markdown 语法。
-- **多语言支持**: 内置 i18n 支持。
+- **Clean Design**: No distracting elements.
+- **Markdown Friendly**: Perfectly supports standard Markdown syntax.
+- **Multilingual Support**: Built-in i18n support.
 
-## 缺点
+## Cons
 
-- 自定义样式需要覆盖 SCSS 变量。
+- Custom styles require overriding SCSS variables.
 
-## 总结
+## Summary
 
-非常适合用于技术文档和个人知识库。
+It is very suitable for technical documentation and personal knowledge bases.

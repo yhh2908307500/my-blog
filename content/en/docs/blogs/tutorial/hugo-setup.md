@@ -1,14 +1,14 @@
 ---
-title: "Hugo 快速入门"
+title: "Hugo Quick Start"
 date: 2025-04-21
 draft: false
 weight: 1
 ---
 
-# Hugo 快速入门指南
+# Hugo Quick Start Guide
 
-本教程将帮助你快速启动一个 Hugo 站点。
+This tutorial will help you quickly start a Hugo site.
 
-## 安装 Hugo
+## Install Hugo
 
-使用 Homebrew (macOS) 或 apt (Linux) 安装。
+Install using Homebrew (macOS) or apt (Linux).
