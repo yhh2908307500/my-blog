@@ -1,14 +1,14 @@
 {
   "name": "我的博客",
   "short_name": "我的博客",
-  "start_url": "/yhh2908307500/my-blog/",
-  "scope": "/yhh2908307500/my-blog/",
+  "start_url": "/my-blog/",
+  "scope": "/my-blog/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/yhh2908307500/my-blog/favicon.svg",
+      "src": "/my-blog/favicon.svg",
       "sizes": "512x512"
     }
   ]
