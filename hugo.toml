@@ -1,14 +1,25 @@
-baseURL = "https://yhh2908307500.github.io/my-blog/"
-languageCode = "zh-cn"
-title = "My Blog"
-theme = "hugo-book"
 
-[params]
-  # Book theme configuration
-  BookTheme = "auto"
-  BookToc = true
-  BookSearch = true
-  BookLogo = ""
-  BookPageNav = true
-  BookRepo = "https://github.com/yhh2908307500/my-blog"
-  BookEditPath = ""
+
+# 基础配置
+baseURL = 'https://github.com/yhh2908307500/my-blog'
+title = '我的博客'
+theme = 'hugo-book'
+
+# ========== 多语言核心配置 ==========
+defaultContentLanguage = 'zh'          # 默认语言设为中文
+defaultContentLanguageInSubdir = false # 默认语言不使用子目录（如 example.com/zh）
+
+[languages]
+  [languages.zh]
+    languageName = '中文'               # 语言切换器显示的名称
+    contentDir = 'content/zh'          # 中文内容目录
+    weight = 1                         # 权重越小越靠前（决定切换器中的显示顺序）
+    [languages.zh.params]
+      locale = 'zh-CN'
+
+  [languages.en]
+    languageName = 'English'
+    contentDir = 'content/en'          # 英文内容目录
+    weight = 2
+    [languages.en.params]
+      locale = 'en-US'
