@@ -1,6 +1,6 @@
 baseURL = "https://yhh2908307500.github.io/my-blog/"
 languageCode = "zh-cn"
-title = "我的博客"
+title = "My Blog"
 theme = "hugo-book"
 
 [params]

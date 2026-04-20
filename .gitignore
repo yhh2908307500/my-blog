@@ -1,5 +1,5 @@
 # Hugo generated files
-public/
+public/*
 resources/_gen/
 
 # OS generated files
@@ -13,3 +13,4 @@ Thumbs.db
 # Other
 node_modules/
 .env
+
