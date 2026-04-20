@@ -1,0 +1,14 @@
+baseURL = "https://yhh2908307500.github.io/my-blog/"
+languageCode = "zh-cn"
+title = "我的博客"
+theme = "hugo-book"
+
+[params]
+  # Book theme configuration
+  BookTheme = "auto"
+  BookToc = true
+  BookSearch = true
+  BookLogo = ""
+  BookPageNav = true
+  BookRepo = "https://github.com/yhh2908307500/my-blog"
+  BookEditPath = ""

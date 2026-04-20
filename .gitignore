@@ -1,0 +1,15 @@
+# Hugo generated files
+public/
+resources/_gen/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Other
+node_modules/
+.env
