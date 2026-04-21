@@ -1,7 +1,7 @@
 
 
 # 基础配置
-# baseURL = 'https://github.com/yhh2908307500/my-blog'
+baseURL = 'http://127.0.0.1:1313/'
 title = '我的博客'
 theme = 'hugo-book'
 
