@@ -5,7 +5,7 @@ draft: false
 weight: 1
 ---
 
-# Hugo Quick Start Guide
+## 序言
 
 This tutorial will help you quickly start a Hugo site.
 

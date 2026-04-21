@@ -3,9 +3,14 @@ title: "Python 基础教程"
 date: 2025-04-23
 draft: false
 weight: 2
+tags: ["python"]
+categories: ["python技术分享"]
+author: "superking"
+words: 15
+readingTime: 1
 ---
 
-# Python 基础教程
+## 序言
 
 本教程将介绍 Python 编程语言的基础知识。
 

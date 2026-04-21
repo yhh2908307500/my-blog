@@ -5,7 +5,7 @@ draft: false
 weight: 2
 ---
 
-# Python Basics Tutorial
+## 序言
 
 This tutorial will introduce the basics of the Python programming language.
 

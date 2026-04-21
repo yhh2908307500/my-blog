@@ -1,10 +1,15 @@
 ---
-title: "第一篇博客"
+title: "我的第一篇博客"
 date: 2025-04-20
 draft: false
+tags: ["hugo", "github-pages"]
+categories: ["技术分享"]
+author: "superking"
+words: 100
+readingTime: 1
 ---
 
-# 我的第一篇博客
+## 序言
 
 这是我使用 Hugo + GitHub Pages 搭建博客后的第一篇文章。
 

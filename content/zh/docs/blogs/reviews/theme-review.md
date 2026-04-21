@@ -5,7 +5,7 @@ draft: false
 weight: 1
 ---
 
-# Hugo Book 主题评测
+## 序言
 
 Hugo Book 是一个简洁、专注于内容的文档主题。
 

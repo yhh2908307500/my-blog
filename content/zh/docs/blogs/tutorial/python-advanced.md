@@ -3,9 +3,14 @@ title: "Python 进阶教程"
 date: 2025-04-24
 draft: false
 weight: 3
+tags: ["python"]
+categories: ["python技术分享"]
+author: "superking"
+words: 15
+readingTime: 1
 ---
 
-# Python 进阶教程
+## 序言
 
 本教程将深入探讨 Python 的高级特性。
 

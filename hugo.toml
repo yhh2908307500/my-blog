@@ -1,7 +1,7 @@
 
 
 # 基础配置
-baseURL = 'https://github.com/yhh2908307500/my-blog'
+# baseURL = 'https://github.com/yhh2908307500/my-blog'
 title = '我的博客'
 theme = 'hugo-book'
 
@@ -23,3 +23,7 @@ defaultContentLanguageInSubdir = false # 默认语言不使用子目录（如 ex
     weight = 2
     [languages.en.params]
       locale = 'en-US'
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'

@@ -3,7 +3,7 @@ title: "首页"
 description: "欢迎来到我的博客 - 基于 Hugo + GitHub Pages 搭建"
 ---
 
-# 欢迎来到我的博客
+## 序言
 
 这是一个基于 Hugo + GitHub Pages 搭建的博客系统，使用 hugo-book 主题。
 

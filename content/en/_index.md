@@ -1,9 +1,12 @@
 ---
 title: "Home"
 description: "Welcome to my blog - Built with Hugo + GitHub Pages"
+author: "superking"
+words: 150
+readingTime: 1
 ---
 
-# Welcome to My Blog
+## 序言
 
 This is a blog system built with Hugo + GitHub Pages, using the hugo-book theme.
 

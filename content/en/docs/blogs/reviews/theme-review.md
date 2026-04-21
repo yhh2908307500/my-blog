@@ -5,7 +5,7 @@ draft: false
 weight: 1
 ---
 
-# Hugo Book Theme Review
+## 序言
 
 Hugo Book is a clean, content-focused documentation theme.
 

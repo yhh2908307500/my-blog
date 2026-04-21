@@ -4,7 +4,7 @@ date: 2025-04-20
 draft: false
 ---
 
-# My First Blog Post
+## 序言
 
 This is my first article after building my blog with Hugo + GitHub Pages.
 
