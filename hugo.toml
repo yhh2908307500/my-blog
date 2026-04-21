@@ -1,7 +1,7 @@
 
 
 # 基础配置
-baseURL = 'http://127.0.0.1:1313/'
+baseURL = 'http://127.0.0.1:1313/my-blog/'
 title = '我的博客'
 theme = 'hugo-book'
 
