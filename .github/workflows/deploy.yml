@@ -36,12 +36,7 @@ jobs:
             ${{ runner.os }}-${{ env.cache-name }}-
 
       - name: Build
-        run: |
-          if [ "${{ github.event.repository.name }}" = "${{ github.repository_owner }}.github.io" ]; then
-            hugo --minify --baseURL https://${{ github.repository_owner }}.github.io/
-          else
-            hugo --minify --baseURL https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
-          fi
+        run: hugo --minify --baseURL https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
