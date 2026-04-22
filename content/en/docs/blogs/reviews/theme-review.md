@@ -3,6 +3,11 @@ title: "Hugo Book Theme Review"
 date: 2025-04-22
 draft: false
 weight: 1
+author: "superking"
+words: 80
+readingTime: 1
+tags: ["hugo", "theme"]
+categories: ["reviews"]
 ---
 
 ## 序言

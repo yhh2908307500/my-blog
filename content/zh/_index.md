@@ -1,6 +1,11 @@
 ---
 title: "首页"
 description: "欢迎来到我的博客 - 基于 Hugo + GitHub Pages 搭建"
+author: "superking"
+words: 150
+readingTime: 1
+tags: ["blog"]
+categories: ["homepage"]
 ---
 
 ## 序言
@@ -11,7 +16,7 @@ description: "欢迎来到我的博客 - 基于 Hugo + GitHub Pages 搭建"
 
 - **主题**: hugo-book
 - **部署平台**: GitHub Pages
-- **源码地址**: [GitHub](https://github.com/yhh2908307500/my-blog)
+- **源码地址**: [GitHub](https://github.com/yhh2908307500/superking-blog)
 
 ## 博客内容
 

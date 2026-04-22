@@ -3,6 +3,11 @@ title: "Python Advanced Tutorial"
 date: 2025-04-24
 draft: false
 weight: 3
+author: "superking"
+words: 100
+readingTime: 1
+tags: ["python"]
+categories: ["python技术分享"]
 ---
 
 ## 序言

@@ -3,6 +3,11 @@ title: "Python Basics Tutorial"
 date: 2025-04-23
 draft: false
 weight: 2
+author: "superking"
+words: 100
+readingTime: 1
+tags: ["python"]
+categories: ["python技术分享"]
 ---
 
 ## 序言

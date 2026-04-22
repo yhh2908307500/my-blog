@@ -2,6 +2,11 @@
 title: "First Post"
 date: 2025-04-20
 draft: false
+author: "superking"
+words: 100
+readingTime: 1
+tags: ["hugo", "github-pages"]
+categories: ["技术分享"]
 ---
 
 ## 序言
