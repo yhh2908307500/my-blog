@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>技术分享 on 我的博客</title><link>https://yhh2908307500.github.io/superking-blog/en/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/</link><description>Recent content in 技术分享 on 我的博客</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 20 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://yhh2908307500.github.io/superking-blog/en/categories/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/index.xml" rel="self" type="application/rss+xml"/><item><title>First Post</title><link>https://yhh2908307500.github.io/superking-blog/en/docs/first-post/</link><pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate><guid>https://yhh2908307500.github.io/superking-blog/en/docs/first-post/</guid><description>&lt;h2 id="序言"&gt;序言&lt;a class="anchor" href="#%e5%ba%8f%e8%a8%80"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This is my first article after building my blog with Hugo + GitHub Pages.&lt;/p&gt;
+&lt;h2 id="setup-process"&gt;Setup Process&lt;a class="anchor" href="#setup-process"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Initialize Hugo project&lt;/li&gt;
+&lt;li&gt;Install hugo-book theme&lt;/li&gt;
+&lt;li&gt;Configure GitHub Pages deployment&lt;/li&gt;
+&lt;li&gt;Publish the first post&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="tech-stack"&gt;Tech Stack&lt;a class="anchor" href="#tech-stack"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Static Site Generator&lt;/strong&gt;: Hugo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Theme&lt;/strong&gt;: hugo-book&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deployment Platform&lt;/strong&gt;: GitHub Pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I hope this blog can record my learning and growth journey!&lt;/p&gt;</description></item></channel></rss>

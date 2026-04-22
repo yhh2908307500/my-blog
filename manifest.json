@@ -1,14 +1,14 @@
 {
   "name": "我的博客",
   "short_name": "我的博客",
-  "start_url": "/my-blog/",
-  "scope": "/my-blog/",
+  "start_url": "/superking-blog/",
+  "scope": "/superking-blog/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/my-blog/favicon.svg",
+      "src": "/superking-blog/favicon.svg",
       "sizes": "512x512"
     }
   ]

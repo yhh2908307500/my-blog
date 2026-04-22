@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reviews on 我的博客</title><link>https://yhh2908307500.github.io/superking-blog/categories/reviews/</link><description>Recent content in Reviews on 我的博客</description><generator>Hugo</generator><language>zh</language><lastBuildDate>Tue, 22 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://yhh2908307500.github.io/superking-blog/categories/reviews/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo Book 主题评测</title><link>https://yhh2908307500.github.io/superking-blog/docs/blogs/reviews/theme-review/</link><pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate><guid>https://yhh2908307500.github.io/superking-blog/docs/blogs/reviews/theme-review/</guid><description>&lt;h2 id="序言"&gt;序言&lt;a class="anchor" href="#%e5%ba%8f%e8%a8%80"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Hugo Book 是一个简洁、专注于内容的文档主题。&lt;/p&gt;
+&lt;h2 id="优点"&gt;优点&lt;a class="anchor" href="#%e4%bc%98%e7%82%b9"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;简洁设计&lt;/strong&gt;: 没有多余的干扰元素。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown 友好&lt;/strong&gt;: 完美支持标准 Markdown 语法。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多语言支持&lt;/strong&gt;: 内置 i18n 支持。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="缺点"&gt;缺点&lt;a class="anchor" href="#%e7%bc%ba%e7%82%b9"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;自定义样式需要覆盖 SCSS 变量。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="总结"&gt;总结&lt;a class="anchor" href="#%e6%80%bb%e7%bb%93"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;非常适合用于技术文档和个人知识库。&lt;/p&gt;</description></item><item><title>评测</title><link>https://yhh2908307500.github.io/superking-blog/docs/blogs/reviews/</link><pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate><guid>https://yhh2908307500.github.io/superking-blog/docs/blogs/reviews/</guid><description>&lt;h2 id="序言"&gt;序言&lt;a class="anchor" href="#%e5%ba%8f%e8%a8%80"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;这里包含对各类工具和主题的评测文章。&lt;/p&gt;</description></item></channel></rss>
