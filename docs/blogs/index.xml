@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文档 on 我的博客</title><link>https://yhh2908307500.github.io/superking-blog/docs/blogs/</link><description>Recent content in 文档 on 我的博客</description><generator>Hugo</generator><language>zh</language><lastBuildDate/><atom:link href="https://yhh2908307500.github.io/superking-blog/docs/blogs/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>文档 on 我的博客</title><link>https://yhh2908307500.github.io/superking-blog/docs/blogs/</link><description>Recent content in 文档 on 我的博客</description><generator>Hugo</generator><language>zh</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://yhh2908307500.github.io/superking-blog/docs/blogs/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://yhh2908307500.github.io/superking-blog/docs/blogs/network/basic/osi%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yhh2908307500.github.io/superking-blog/docs/blogs/network/basic/osi%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B/</guid><description>&lt;h1 id="一-osi-七层网络模型"&gt;一. OSI 七层网络模型&lt;a class="anchor" href="#%e4%b8%80-osi-%e4%b8%83%e5%b1%82%e7%bd%91%e7%bb%9c%e6%a8%a1%e5%9e%8b"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;应用层，负责给应用程序提供统一的接口；
+表示层，负责把数据转换成兼容另一个系统能识别的格式；
+会话层，负责建立、管理和终止表示层实体之间的通信会话；
+传输层，负责端到端的数据传输；
+网络层，负责数据的路由、转发、分片；
+数据链路层，负责数据的封帧和差错检测，以及 MAC 寻址；
+物理层，负责在物理网络中传输数据帧；&lt;/p&gt;
+&lt;h1 id="二-tcpip-四层网络模型"&gt;二. TCP/IP 四层网络模型&lt;a class="anchor" href="#%e4%ba%8c-tcpip-%e5%9b%9b%e5%b1%82%e7%bd%91%e7%bb%9c%e6%a8%a1%e5%9e%8b"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;应用层，负责向用户提供一组应用程序，比如 HTTP、DNS、FTP 等;
+传输层，负责端到端的通信，比如 TCP、UDP 等；
+网络层，负责网络包的封装、分片、路由、转发，比如 IP、ICMP 等；
+网络接口层，负责网络包在物理网络中的传输，比如网络包的封帧、 MAC 寻址、差错检测，以及通过网卡传输网络帧等；&lt;/p&gt;
+&lt;h1 id="备注"&gt;备注&lt;a class="anchor" href="#%e5%a4%87%e6%b3%a8"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;ARP (网络层和链路层之间) 是同一个局域网内的“寻址翻译官”：当知道目标 IP 却不知道其 MAC 地址时，ARP 通过广播询问、单播回应，建立 IP 到 MAC 的映射，确保数据帧能在链路上正确送达。
+ICMP(网络层)	传递控制信息和错误报告&lt;/p&gt;</description></item><item><title/><link>https://yhh2908307500.github.io/superking-blog/docs/blogs/network/basic/tcp%E5%92%8Cip%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yhh2908307500.github.io/superking-blog/docs/blogs/network/basic/tcp%E5%92%8Cip%E7%BD%91%E7%BB%9C%E6%A8%A1%E5%9E%8B/</guid><description>&lt;h1 id="四层模型"&gt;四层模型&lt;a class="anchor" href="#%e5%9b%9b%e5%b1%82%e6%a8%a1%e5%9e%8b"&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=""&gt;&lt;a class="anchor" href="#"&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;应用层(应用数据)&lt;/li&gt;
+&lt;li&gt;传输层(TCP头+应用数据)&lt;/li&gt;
+&lt;li&gt;网络层(IP头+TCP头+应用数据)&lt;/li&gt;
+&lt;li&gt;网络接口层(MAC头+IP头+TCP头+应用数据)&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title/><link>https://yhh2908307500.github.io/superking-blog/docs/blogs/network/basic/%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yhh2908307500.github.io/superking-blog/docs/blogs/network/basic/%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B/</guid><description>&lt;p&gt;三次握手基本原理&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Client send SYN to Server
+syn flag = x&lt;/li&gt;
+&lt;li&gt;Server send SYN+ACK to Client
+ack flag = x + 1
+syn flag = y&lt;/li&gt;
+&lt;li&gt;Client send ACK to Server
+ack flag = y + 1&lt;/li&gt;
+&lt;/ol&gt;</description></item></channel></rss>
